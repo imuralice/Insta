@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Insta</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="don_t_have_an_sccount_sign_up">Don\'t have an sccount? Sign up</string>
+    <string name="settings">Settings</string>
+    <string name="log_out">Log Out</string>
+    <string name="post">POST</string>
+    <string name="description">Description</string>
+    <string name="username">Username</string>
+    <string name="full_name">Full name</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_sccount_log_in">Already have an sccount? Log in</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="report">Report</string>
+</resources>
